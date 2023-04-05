@@ -1,6 +1,7 @@
 package assimp
 
 //#cgo pkg-config: assimp
+//#include <assimp/defs.h>
 //#include <assimp/anim.h>
 import "C"
 
